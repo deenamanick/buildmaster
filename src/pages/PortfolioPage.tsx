@@ -239,7 +239,7 @@ const PortfolioPage = () => {
                 <div className="p-6">
                   <p className="text-gray-600 mb-4">{project.description}</p>
                   <div className="text-sm text-gray-500">
-                    Completed in {project.year}
+                    Completed In {project.year}
                   </div>
                 </div>
               </div>
